@@ -1,0 +1,11 @@
+{
+  "domain": "dahua_cube_a1",
+  "name": "Dahua Cube A1",
+  "codeowners": ["@jabenetti"],
+  "config_flow": true,
+  "documentation": "https://github.com/jabenetti/dahua_cube_a1",
+  "issue_tracker": "https://github.com/jabenetti/dahua_cube_a1/issues",
+  "requirements": [],
+  "version": "0.1.0",
+  "iot_class": "local_push"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Dahua Cube A1",
+  "content_in_root": false,
+  "homeassistant": "2024.1.0",
+  "zip_release": true,
+  "filename": "dahua_cube_a1.zip",
+  "render_readme": true
+}
